@@ -21,7 +21,7 @@ const aboutMe = {\
 &emsp;  languages: ['English', 'Hindi', 'Punjabi'],\
 &emsp;  interests: ['Sketching', 'Travelling', 'Culinary'],\
 &emsp; isCoffeeholic: true,\
-};
+&emsp;};
 
 ## My usual tech stack 💻
 
