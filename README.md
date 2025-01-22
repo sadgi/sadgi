@@ -11,15 +11,15 @@ Open source :octocat:
 
 ## A little about me !!
 
-const aboutMe = {/
-  fullName: 'SADGI',/
-  title: 'Senior Frontend Software Engineer',/
-  currentJob: 'Appnovation | Vancouver',/
-  education: [Concordia University, Guru Nanak Dev University],/
-  work: [Appnovation, Hitachi Energy, Biospective, Infogain],/
-  coreSkills: ['ReactJS', 'NextJS', 'Redux', 'Node.js', 'JavaScript', 'TypeScript', 'HTML5', 'CSS3', 'MongoDB', 'AWS', 'CI/CD', 'Jest', 'Agile'],/
-  languages: ['English', 'Hindi', 'Punjabi'],/
-  interests: ['Sketching', 'Travelling', 'Culinary'],/
+const aboutMe = {\
+  fullName: 'SADGI',\
+  title: 'Senior Frontend Software Engineer',\
+  currentJob: 'Appnovation | Vancouver',\
+  education: [Concordia University, Guru Nanak Dev University],\
+  work: [Appnovation, Hitachi Energy, Biospective, Infogain],\
+  coreSkills: ['ReactJS', 'NextJS', 'Redux', 'Node.js', 'JavaScript', 'TypeScript', 'HTML5', 'CSS3', 'MongoDB', 'AWS', 'CI/CD', 'Jest', 'Agile'],\
+  languages: ['English', 'Hindi', 'Punjabi'],\
+  interests: ['Sketching', 'Travelling', 'Culinary'],\
   isCoffeeholic: true,/
 };
 
@@ -34,6 +34,16 @@ const aboutMe = {/
 <img src="https://github.com/user-attachments/assets/08247273-60d5-4fc5-b9d2-6e109ff3fd91" width="64" height="64">
 <img src="https://github.com/user-attachments/assets/791e0c1d-8f66-4fe0-96d0-4a9dad2f53f1" width="64" height="64">
 <img src="https://github.com/user-attachments/assets/80c27a75-9aee-4558-bb31-a39dd79c34f8" width="64" height="64">
+
+
+## What I sometimes play with 🖲️
+<img src="https://github.com/user-attachments/assets/34a19c0d-8cee-46a1-9f61-f2c6fb8ac4c0" width="64" height="64">
+<img src="https://github.com/user-attachments/assets/ca26c0be-1148-413e-8ac8-82f7b9ebf686" width="64" height="64">
+<img src="https://github.com/user-attachments/assets/fc305ec1-aa43-437b-8ce7-0b3900756efc" width="64" height="64">
+<img src="https://github.com/user-attachments/assets/36ab8f6e-2da4-4b77-9986-64f904a862c6" width="64" height="64">
+
+
+
 
 
 
