@@ -10,7 +10,7 @@ Web development 🌐
 Open source :octocat:
 
 ## A little about me !!
-
+```
 const aboutMe = {\
 &emsp; fullName: 'SADGI',\
 &emsp; title: 'Senior Frontend Software Engineer',\
@@ -22,6 +22,7 @@ const aboutMe = {\
 &emsp;  interests: ['Sketching', 'Travelling', 'Culinary'],\
 &emsp; isCoffeeholic: true,\
 &emsp;};
+```
 
 ## My usual tech stack 💻
 
