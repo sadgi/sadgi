@@ -11,17 +11,17 @@ Open source :octocat:
 
 ## A little about me !!
 ```
-const aboutMe = {\
-&emsp; fullName: 'SADGI',\
-&emsp; title: 'Senior Frontend Software Engineer',\
-&emsp;  currentJob: 'Appnovation | Vancouver',\
-&emsp;  education: [Concordia University, Guru Nanak Dev University],\
-&emsp;  work: [Appnovation, Hitachi Energy, Biospective, Infogain],\
-&emsp;  coreSkills: ['ReactJS', 'NextJS', 'Redux', 'Node.js', 'JavaScript', 'TypeScript', 'HTML5', 'CSS3', 'MongoDB', 'AWS', 'CI/CD', 'Jest', 'Agile'],\
-&emsp;  languages: ['English', 'Hindi', 'Punjabi'],\
-&emsp;  interests: ['Sketching', 'Travelling', 'Culinary'],\
-&emsp; isCoffeeholic: true,\
-&emsp;};
+const aboutMe = {
+  fullName: 'SADGI',
+  title: 'Senior Frontend Software Engineer',
+  currentJob: 'Appnovation | Vancouver',
+  education: [Concordia University, Guru Nanak Dev University],
+  work: [Appnovation, Hitachi Energy, Biospective, Infogain],
+  coreSkills: ['ReactJS', 'NextJS', 'Redux', 'Node.js', 'JavaScript', 'TypeScript', 'HTML5', 'CSS3', 'MongoDB', 'AWS', 'CI/CD', 'Jest', 'Agile'],
+  languages: ['English', 'Hindi', 'Punjabi'],
+  interests: ['Sketching', 'Travelling', 'Culinary'],
+  isCoffeeholic: true,
+};
 ```
 
 ## My usual tech stack 💻
