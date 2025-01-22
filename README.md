@@ -20,7 +20,7 @@ const aboutMe = {\
   coreSkills: ['ReactJS', 'NextJS', 'Redux', 'Node.js', 'JavaScript', 'TypeScript', 'HTML5', 'CSS3', 'MongoDB', 'AWS', 'CI/CD', 'Jest', 'Agile'],\
   languages: ['English', 'Hindi', 'Punjabi'],\
   interests: ['Sketching', 'Travelling', 'Culinary'],\
-  isCoffeeholic: true,/
+  isCoffeeholic: true,\
 };
 
 ## My usual tech stack 💻
